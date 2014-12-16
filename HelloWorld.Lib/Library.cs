@@ -11,5 +11,10 @@ namespace HelloWorld.Lib
         {
             return "Hello";
         }
+
+        public string GetName()
+        {
+            throw new NotImplementedException();
+        }
     }
 }

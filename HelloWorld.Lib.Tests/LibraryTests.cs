@@ -13,5 +13,14 @@ namespace HelloWorld.Lib.Tests
 
             Assert.AreEqual("Hello", lib.GetGreetings());
         }
+
+        [TestMethod]
+        public void TestGetName()
+        {
+            var lib = new Library();
+
+            Assert.AreEqual("World", lib.GetName());
+        }
     }
+
 }

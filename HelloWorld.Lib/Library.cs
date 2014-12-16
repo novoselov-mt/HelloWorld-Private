@@ -9,7 +9,7 @@ namespace HelloWorld.Lib
     {
         public string GetGreetings()
         {
-            return string.Empty;
+            return "Hello";
         }
     }
 }

@@ -57,7 +57,7 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\HelloWorld.Lib\HelloWorld.Lib.csproj">
+    <ProjectReference Include="..\HelloWorld.Lib\HelloWorld.Lib.csproj">
       <Project>{48D3E6AB-1721-4847-8B5F-9278E65A0B53}</Project>
       <Name>HelloWorld.Lib</Name>
     </ProjectReference>

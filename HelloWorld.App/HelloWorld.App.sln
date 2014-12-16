@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorld.App", "HelloWorl
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorld.Lib", "..\HelloWorld.Lib\HelloWorld.Lib.csproj", "{48D3E6AB-1721-4847-8B5F-9278E65A0B53}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorld.Lib.Tests", "HelloWorld.Lib.Tests\HelloWorld.Lib.Tests.csproj", "{4FFC2813-7AB7-4BC3-ACCC-D4FACB6FCC66}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorld.Lib.Tests", "..\HelloWorld.Lib.Tests\HelloWorld.Lib.Tests.csproj", "{4FFC2813-7AB7-4BC3-ACCC-D4FACB6FCC66}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

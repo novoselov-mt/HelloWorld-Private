@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "HelloWorld-cpp-lib", "HelloWorld-cpp-lib\HelloWorld-cpp-lib.vcxproj", "{C85E8937-A406-46BB-8FD7-A3874430364F}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "HelloWorld-cpp-app", "HelloWorld-cpp-app\HelloWorld-cpp-app.vcxproj", "{DAB97CD2-C6CB-4DC3-B2E9-523E9C41B596}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C85E8937-A406-46BB-8FD7-A3874430364F}.Debug|Win32.ActiveCfg = Debug|Win32
+		{C85E8937-A406-46BB-8FD7-A3874430364F}.Debug|Win32.Build.0 = Debug|Win32
+		{C85E8937-A406-46BB-8FD7-A3874430364F}.Release|Win32.ActiveCfg = Release|Win32
+		{C85E8937-A406-46BB-8FD7-A3874430364F}.Release|Win32.Build.0 = Release|Win32
+		{DAB97CD2-C6CB-4DC3-B2E9-523E9C41B596}.Debug|Win32.ActiveCfg = Debug|Win32
+		{DAB97CD2-C6CB-4DC3-B2E9-523E9C41B596}.Debug|Win32.Build.0 = Debug|Win32
+		{DAB97CD2-C6CB-4DC3-B2E9-523E9C41B596}.Release|Win32.ActiveCfg = Release|Win32
+		{DAB97CD2-C6CB-4DC3-B2E9-523E9C41B596}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

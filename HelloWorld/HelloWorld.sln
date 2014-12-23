@@ -9,6 +9,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "HelloWorld-cpp-app", "Hello
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorld-cs-app", "HelloWorld-cs-app\HelloWorld-cs-app.csproj", "{B76F2C53-A97A-4439-980E-6BA0B72CA09D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorld-cs-lib", "HelloWorld-cs-lib\HelloWorld-cs-lib.csproj", "{F7480E6E-A019-4963-9C73-8CB6320D852E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -49,6 +51,16 @@ Global
 		{B76F2C53-A97A-4439-980E-6BA0B72CA09D}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
 		{B76F2C53-A97A-4439-980E-6BA0B72CA09D}.Release|Mixed Platforms.Build.0 = Release|Any CPU
 		{B76F2C53-A97A-4439-980E-6BA0B72CA09D}.Release|Win32.ActiveCfg = Release|Any CPU
+		{F7480E6E-A019-4963-9C73-8CB6320D852E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7480E6E-A019-4963-9C73-8CB6320D852E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7480E6E-A019-4963-9C73-8CB6320D852E}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{F7480E6E-A019-4963-9C73-8CB6320D852E}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{F7480E6E-A019-4963-9C73-8CB6320D852E}.Debug|Win32.ActiveCfg = Debug|Any CPU
+		{F7480E6E-A019-4963-9C73-8CB6320D852E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7480E6E-A019-4963-9C73-8CB6320D852E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7480E6E-A019-4963-9C73-8CB6320D852E}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{F7480E6E-A019-4963-9C73-8CB6320D852E}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{F7480E6E-A019-4963-9C73-8CB6320D852E}.Release|Win32.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
